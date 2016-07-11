@@ -6,4 +6,4 @@ function sortByName(a) {
       return result;
 }
 
-ortByName(5);
+sortByName(5);
